@@ -1,0 +1,4 @@
+This is Logu (S20190010111)
+I like coding. particularly in python.
+I would like to be a software developer in a good company .
+So Speaking of Project I will be developing a Video Conferencing Solution using Node js and MongoDB.
