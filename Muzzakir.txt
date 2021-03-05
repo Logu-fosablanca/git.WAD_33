@@ -1,3 +1,0 @@
-I am Muzzakir (S20190010111)
-I am Interested in web development .
-I am doing the  bank end Development Node js similar to Apple's Air Drop
